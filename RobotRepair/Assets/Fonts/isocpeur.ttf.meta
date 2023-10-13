@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7bc95a40ab92d7148b482b52ec4f259d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ISOCPEUR
+  fontNames:
+  - ISOCPEUR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b479b280da43da14e95fe5c3d72fc7c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

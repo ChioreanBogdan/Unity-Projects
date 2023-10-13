@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6ea20f96cee586b479b9955bdd824557
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Romantic
+  fontNames:
+  - Romantic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 71088f925b879e740b6da3cd33053c55, type: 3}
+  - {fileID: 12800000, guid: 25178a5edb2715e418f8bb750d11035b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: da5646ff3ef22204d95828d811fe6c69
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dutch801 Rm BT
+  fontNames:
+  - Dutch801 Rm BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e62cee1c45cb1454e8d5c57df0618f32, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

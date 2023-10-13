@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  - Kanji_description_box
+  - Enemy
+  - Healthbar
+  - Kanji_Card
+  - Kanji_Slot
+  - Fusion_Point
+  - Bottom_menu_button
+  - Character_Select_Panel
+  - Enemy_Select_Panel
+  - Cast_Indicator
+  - Effect_Icon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Kanji-Back
+  - Kanji-Front
+  - Menu-Front
+  - Menu-Back
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Kanji-Back
+    uniqueID: 2315319443
+    locked: 0
+  - name: Kanji-Front
+    uniqueID: 962471699
+    locked: 0

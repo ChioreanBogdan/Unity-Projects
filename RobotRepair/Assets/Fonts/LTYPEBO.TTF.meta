@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bdca886ffd8ff5e4db9846a5b5038b99
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lucida Sans Typewriter
+  fontNames:
+  - Lucida Sans Typewriter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85026d057a5f81642bf905b33db46898, type: 3}
+  - {fileID: 12800000, guid: 787545bb6e2de4849810fe3080835f24, type: 3}
+  - {fileID: 12800000, guid: e07fbcbcdba61d44c93bfac2080bc5c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

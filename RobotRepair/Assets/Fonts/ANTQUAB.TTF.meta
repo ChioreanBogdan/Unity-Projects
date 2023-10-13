@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: eb8d758a7d4cfde4ca65134ff0171865
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Book Antiqua
+  fontNames:
+  - Book Antiqua
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00636d37e7d3f0b4bbadcfbd2c8e066d, type: 3}
+  - {fileID: 12800000, guid: 1aee93f7c2a711c469873e5c3e3a33e7, type: 3}
+  - {fileID: 12800000, guid: c673aff87bff1aa4fb56e827fb34325e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

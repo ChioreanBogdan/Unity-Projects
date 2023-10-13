@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f74973b7fda413a498d6da3115a9bf0c
+timeCreated: 1565725795
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Togalite
+  fontNames:
+  - Togalite
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80fcc00177117304ab639c62ea79165a, type: 3}
+  - {fileID: 12800000, guid: 1bf468a1a30f7164e8e39552a62b2143, type: 3}
+  - {fileID: 12800000, guid: 6a0ac957f1d11d342bd6ef3723312c58, type: 3}
+  - {fileID: 12800000, guid: f09c23e9189a84248aadae772e3837c2, type: 3}
+  - {fileID: 12800000, guid: 76d416dcb48945d4da8ec756524f05a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

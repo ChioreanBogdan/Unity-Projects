@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8a3c81df29d0194db1ce9156533726e, type: 3}
+  m_Name: 1-one-line radical
+  m_EditorClassIdentifier: 
+  id_number: 1
+  symbol: "\u4E00"
+  english_name: one/line radical
+  description: "Covers a target with <color=\"orange\">one</color> charge of an \u3044\u3061
+    flamable powder,icreasing fire damage to target by 10 points"
+  onyomi_readings:
+  - "\u3044\u3061"
+  kunyomi_readings: []
+  icon: {fileID: 0}

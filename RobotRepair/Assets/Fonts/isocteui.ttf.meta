@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a9d98183c475c5e40a16115da5a1a22c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ISOCTEUR
+  fontNames:
+  - ISOCTEUR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8635d7a915a2e44459f14c54d03d818c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
